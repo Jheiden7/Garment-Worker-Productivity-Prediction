@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1761324567919
+current_stage: None
+description: ''
+last_updated_timestamp: 1761324567919
+name: Sklearn_DTR
+run_id: c583e1cb554f4cbf933fac2e11f7499d
+run_link: ''
+source: mlflow-artifacts:/711334365715022044/c583e1cb554f4cbf933fac2e11f7499d/artifacts/Decision
+  Tree Regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/711334365715022044/c583e1cb554f4cbf933fac2e11f7499d/artifacts/Decision
+  Tree Regression
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/711334365715022044/2ea401b4ec064df085fab8a263bc0f1f/artifacts
+end_time: 1761328856418
+entry_point_name: ''
+experiment_id: '711334365715022044'
+lifecycle_stage: active
+run_id: 2ea401b4ec064df085fab8a263bc0f1f
+run_name: Random Forest Regression
+run_uuid: 2ea401b4ec064df085fab8a263bc0f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761328856369
+status: 4
+tags: []
+user_id: jhonn

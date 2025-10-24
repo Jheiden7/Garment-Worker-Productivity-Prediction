@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1761324610514
+current_stage: None
+description: ''
+last_updated_timestamp: 1761324610514
+name: Sklearn_Lasso
+run_id: ee7f82acef4e46258df5eae159faaf3c
+run_link: ''
+source: mlflow-artifacts:/711334365715022044/ee7f82acef4e46258df5eae159faaf3c/artifacts/Lasso
+  Regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/711334365715022044/ee7f82acef4e46258df5eae159faaf3c/artifacts/Lasso
+  Regression
+user_id: null
+version: 1

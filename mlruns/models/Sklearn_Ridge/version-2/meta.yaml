@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1761328369314
+current_stage: None
+description: ''
+last_updated_timestamp: 1761328369314
+name: Sklearn_Ridge
+run_id: b6fc4002329d4b918e063f129b697ce5
+run_link: ''
+source: mlflow-artifacts:/711334365715022044/b6fc4002329d4b918e063f129b697ce5/artifacts/RidgeRegression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/711334365715022044/b6fc4002329d4b918e063f129b697ce5/artifacts/RidgeRegression
+user_id: null
+version: 2

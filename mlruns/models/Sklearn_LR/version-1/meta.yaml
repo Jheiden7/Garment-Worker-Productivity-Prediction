@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1761324527367
+current_stage: None
+description: ''
+last_updated_timestamp: 1761324527367
+name: Sklearn_LR
+run_id: 4415659d0e3a4d8c9d5499677222eef3
+run_link: ''
+source: mlflow-artifacts:/711334365715022044/4415659d0e3a4d8c9d5499677222eef3/artifacts/Linear
+  Regression
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/711334365715022044/4415659d0e3a4d8c9d5499677222eef3/artifacts/Linear
+  Regression
+user_id: null
+version: 1
